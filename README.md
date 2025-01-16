@@ -16,7 +16,5 @@ This project compares multiple architectures (CNN variants, vision transformer n
     (a) ResNet configuration (b) DenseNet configuration (c) ViT configuration
 # Installation & Usage
 **1.Setup**
-`git clone https://github.com/username/COPD_Recognition.git
-cd COPD_Recognition
-pip install -r requirements.txt
-`
+`git clone https://github.com/keyanshagua/West-China-Hospital-RespAI.git`
+`pip install -r requirements.txt`
