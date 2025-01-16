@@ -16,11 +16,13 @@ This project compares multiple architectures (CNN variants, vision transformer n
     (a) ResNet configuration (b) DenseNet configuration (c) ViT configuration
 # Installation & Usage
 **1. Setup**
+
 `git clone https://github.com/keyanshagua/West-China-Hospital-RespAI.git`
 
  `pip install -r requirements.txt`
  
 **2. Get the MONAI Docker Image**
+
 `docker pull projectmonai/monai:latest`
 
 # Interpretability
