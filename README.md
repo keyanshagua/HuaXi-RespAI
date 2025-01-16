@@ -14,6 +14,14 @@ This project compares multiple architectures (CNN variants, vision transformer n
 # Model Architectures
 ![image](https://github.com/user-attachments/assets/0dfaec3f-93f8-493a-86ad-7ab451dd8b5d)
     (a) ResNet configuration (b) DenseNet configuration (c) ViT configuration
+
+# Interpretability
+## CAM
+![image](https://github.com/user-attachments/assets/f24e1c0d-e63e-4906-a778-b879aa0cb457)
+
+## Grad-CAM and Occlusion Sensitivity
+![image](https://github.com/user-attachments/assets/2648c1f0-f84a-4a5b-9e5d-529183be41df)
+
 # Installation & Usage
 **1. Setup**
 
@@ -24,11 +32,3 @@ This project compares multiple architectures (CNN variants, vision transformer n
 **2. Get the MONAI Docker Image**
 
 `docker pull projectmonai/monai:latest`
-
-# Interpretability
-## CAM
-![image](https://github.com/user-attachments/assets/f24e1c0d-e63e-4906-a778-b879aa0cb457)
-
-## Grad-CAM and Occlusion Sensitivity
-![image](https://github.com/user-attachments/assets/2648c1f0-f84a-4a5b-9e5d-529183be41df)
-
